@@ -1,1 +1,0 @@
-C:\BloodCity\kilo_rust\kilo_rust_07\target\debug\libkilo_rust_07.rlib: C:\BloodCity\kilo_rust\kilo_rust_07\src\ax\greeting.rs C:\BloodCity\kilo_rust\kilo_rust_07\src\ax\mod.rs C:\BloodCity\kilo_rust\kilo_rust_07\src\lib.rs
