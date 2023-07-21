@@ -1,2 +1,2 @@
 mod ax;
-pub use ax::greeting::hello_world;
+pub use ax::hello_world;
