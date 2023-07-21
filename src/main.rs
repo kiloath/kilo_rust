@@ -1,7 +1,5 @@
-fn main() {
-    hello_world();
-}
+mod ax;
 
-fn hello_world() {
-    println!("Hello, world!");
+fn main() {
+    ax::hello_world();
 }
