@@ -1,5 +1,5 @@
 mod ax;
 
 fn main() {
-    ax::hello_world();
+    ax::greeting::hello_world();
 }
